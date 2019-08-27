@@ -1,5 +1,0 @@
-name: up2date
-on:
-  pull:
-    branches:
-      - origin/master
