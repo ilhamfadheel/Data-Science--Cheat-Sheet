@@ -1,4 +1,5 @@
 name: up2date
-pull:
-  branches:
-    - origin/master
+on:
+  pull:
+    branches:
+      - origin/master
